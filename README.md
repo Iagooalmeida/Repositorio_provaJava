@@ -1,6 +1,6 @@
-# Sistema de Gerenciamento do Produtos
+# Sistema de Gerenciamento de Produtos
 ## Fatec Itapira - Desenvolvimento de software multiplataforma
 ---
 **Equipe:** IAGO DE OLIVEIRA ALMEIDA  
-           WENDEL ADRIANO BITENCOURT  
-           ANDRE LUIS DA SILVA FONSECA  
+**Equipe:** WENDEL ADRIANO BITENCOURT  
+**Equipe:** ANDRE LUIS DA SILVA FONSECA  
