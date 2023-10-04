@@ -1,3 +1,6 @@
-# Repositorio prova Java
-## Fatec Itapira
-## Desenvolvimento de software multiplataforma
+# Sistema de Gerenciamento do Produtos
+## Fatec Itapira - Desenvolvimento de software multiplataforma
+---
+*Equipe: * IAGO DE OLIVEIRA ALMEIDA
+           WENDEL ADRIANO BITENCOURT
+           ANDRE LUIS DA SILVA FONSECA
